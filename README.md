@@ -7,4 +7,5 @@
 [Camilo Chavista](https://github.com/c4milo2011)
 [Brayan Dueñas](https://github.com/BryanO8)
 ## Documentación
-[Documentacion](PROYECTO-CERRADURA-INTELIGENTE-CON-LECTOR-DE-HUELLA.PDF)
+[Documentacion](https://github.com/ECCI-sistemas-digitales1/proyecto-1ra-entrega-g5/blob/820b05a60ca80894b0a0bf8d83b02bee13a4b756/PROYECTO-CERRADURA-INTELIGENTE-CON-LECTOR-DE-HUELLA.pdf)
+
