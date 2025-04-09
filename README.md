@@ -2,6 +2,9 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
-
-
+[Michael Espitia](https://github.com/michaelespitia2025)
+[Laura León](https://github.com/LauraLeon1604)
+[Camilo Chavista](https://github.com/c4milo2011)
+[Brayan Dueñas](https://github.com/BryanO8)
 ## Documentación
+[Documentacion](PROYECTO-CERRADURA-INTELIGENTE-CON-LECTOR-DE-HUELLA.PDF)
